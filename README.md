@@ -18,8 +18,8 @@ Here are some of the technologies I use regularly:
 
 ## 📊 GitHub Stats
 
-![Haragucci's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haragucci&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haragucci&layout=compact&theme=radical)
+![Haragucci's GitHub stats](https://github-readme-stats.vercel.app/api?username=2324-Schrodi-Tilljan-BSZ&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2324-Schrodi-Tilljan-BSZ&layout=compact&theme=radical)
 
 ---
 
